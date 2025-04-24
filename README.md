@@ -1,4 +1,8 @@
-## Hi there 👋
+## Zypperia
+<div id="badges">
+  <img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/RUST-grey?style=for-the-badge&logo=rust">
+</div>
 
 <!--
 **zypperia/zypperia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
