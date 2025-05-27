@@ -1,5 +1,10 @@
 ## Zypperia
 ~ UwU ~
+
+I am Zypperia - dead simple, starter developer
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![codewars](https://www.codewars.com/users/zypperia/badges/large)
 
 <!--
