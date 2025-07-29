@@ -1,5 +1,6 @@
 ## Zypperia
-~ UwU ~
+
+![zypperia](https://count.getloli.com/@zypperia)
 
 I am Zypperia - dead simple, starter developer
 
